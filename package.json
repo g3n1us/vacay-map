@@ -1,0 +1,15 @@
+{
+  "name": "vacay-map",
+  "version": "1.0.0",
+  "description": "A demo of React and ArcGIS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "arcgis"
+  ],
+  "author": "Sean Bethel (@g3n1us)",
+  "license": "GPL-3.0"
+}
